@@ -1,1 +1,2 @@
 print ("Welcome to L.L.C!")
+print ("How do you do?")
